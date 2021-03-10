@@ -1,1 +1,1 @@
-console.log('小毛爱吃肉!')
+console.log('小毛爱吃屎!')
